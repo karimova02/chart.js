@@ -1,0 +1,10 @@
+b=(input("Name of Students:"))
+c=(input("Name of Students:"))
+d=(input("Name of Students:"))
+e=(input("Name of Students:"))
+f=(input("Name of Students:"))
+j=(input("Name of Students:"))
+h=(input("Name of Students:"))
+a=["Maxmud", "Ali", "Said", "Diyora", "Farrukh", "Laziz"]
+print(sorted(a))
+print(b, c, d, e, f, j, h)
